@@ -6,11 +6,12 @@
 |__/|__/\__,_/_.___/\__,_/\____/ 
                                  
 
-    Wubao for Nintendo Wii U
-An social media work at home and uses Facebook In China For Developers
+    Wubao for Line
+An social media text based work at home and uses Facebook In China For Developers
       
      -----
-    Type: Wii to Wii U
+    Type: Feeds
+    Hosted: github, hybfeeds
     Author: Wii NeYu Creator
     Size: 0kb
    --- Knfi ---
