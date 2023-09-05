@@ -6,7 +6,7 @@
 |__/|__/\__,_/_.___/\__,_/\____/ 
                                  
 
-    Wubao for Line
+    Wubao for IRC-Client
 An social media text based work at home and uses Facebook In China For Developers
       
      -----
